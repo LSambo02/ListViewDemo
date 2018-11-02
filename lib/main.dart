@@ -16,7 +16,7 @@ class _App2State extends State<App2> {
       title: "My Second Flutter App",
       home: Scaffold(
         appBar: AppBar(
-          title: Text(" StudyJam => Listview"),
+          title: Text("StudyJam => Listview"),
           backgroundColor: Colors.blue,
         ),
         body: Column(
@@ -30,7 +30,7 @@ class _App2State extends State<App2> {
               child: RaisedButton(
                 onPressed: () {
                   setState(() {
-                    print(tFcontroller.text);
+                    //print(tFcontroller.text);
                     lista.add(tFcontroller.text);
                   });
                 },
