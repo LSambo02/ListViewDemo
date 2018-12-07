@@ -1,6 +1,6 @@
-# flutter_application2
+# Marvel Super Heros Call Sheet
 
-A new Flutter application.
+A demo application to show how simple it is to work with Flutter and applying the concepts such as Widget Tree and other!
 
 ## Getting Started
 
